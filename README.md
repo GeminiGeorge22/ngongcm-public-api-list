@@ -35,21 +35,30 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 
 ---
 
+
+
 ## 📘 Index
 
 * [Sports](#-sports)
 * [Finance](#-finance)
-* [Sports Betting & Odds](#-sports-betting--odds)
-* [AI & Machine Learning](#-ai--machine-learning)
-* [News & Media](#-news--media)
+* [Sports Betting and Odds](#-sports-betting-and-odds)
+* [AI and Machine Learning](#-ai-and-machine-learning)
+* [News and Media](#-news-and-media)
+* [Social Media](#-social-media)
+* [E-Commerce and Product Data](#-e-commerce-and-product-data)
+* [Travel and Booking](#-travel-and-booking)
+* [Real Estate and Automotive](#-real-estate-and-automotive)
+* [Data Extraction and Web Scraping](#-data-extraction-and-web-scraping)
 * [Weather](#-weather)
 * [Developer Tools](#-developer-tools)
 
 ---
 
 ## 🏈 Sports
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
+| [Football - Soccer API](https://rapidapi.com/sparior/api/football-soccer4) | Football fixtures, match data, team and player statistics | `apiKey` | ✅ | Check plans |
 | [API-Football](https://www.api-football.com/) | Live football data & stats | `apiKey` | ✅ | Freemium |
 | [TheSportsDB](https://www.thesportsdb.com/) | Community-driven sports database | `apiKey` | ✅ | Free |
 | [SportsData.io](https://sportsdata.io/) | Major sports stats and odds | `apiKey` | ✅ | Paid |
@@ -58,6 +67,7 @@ API | Description | Auth | HTTPS | Free
 ---
 
 ## 💰 Finance
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [Mboum Finance](https://mboum.com/api) | Stock, options, and market fundamentals | `apiKey` | ✅ | Freemium |
@@ -65,11 +75,12 @@ API | Description | Auth | HTTPS | Free
 | [FXMacroData](https://fxmacrodata.com) | Forex macroeconomic data, central bank releases, rates, inflation, and GDP | `apiKey` | ✅ | Freemium |
 | [Finnhub](https://finnhub.io/) | Real-time financial data | `apiKey` | ✅ | Freemium |
 | [Yahoo Finance](https://finance.yahoo.com/) | Global financial market data | None | ✅ | Free |
-| [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, insider trades | `apiKey | ✅ | Freemium |
+| [FinancialData.Net](https://financialdata.net/) | Stock data, financial statements, ratios, and insider trades | `apiKey` | ✅ | Freemium |
 
 ---
 
-## 🎯 Sports Betting & Odds
+## 🎯 Sports Betting and Odds
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [TheOddsAPI](https://the-odds-api.com/) | Live odds from 30+ bookmakers | `apiKey` | ✅ | Paid |
@@ -77,7 +88,8 @@ API | Description | Auth | HTTPS | Free
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🤖 AI and Machine Learning
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [OpenAI](https://platform.openai.com/) | Text, image, and chat AI models | `apiKey` | ✅ | Paid |
@@ -87,7 +99,8 @@ API | Description | Auth | HTTPS | Free
 
 ---
 
-## 🗞️ News & Media
+## 🗞️ News and Media
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [NewsAPI](https://newsapi.org/) | Global news and headlines | `apiKey` | ✅ | Freemium |
@@ -96,7 +109,54 @@ API | Description | Auth | HTTPS | Free
 
 ---
 
+## 📱 Social Media
+
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [Instagram Social](https://rapidapi.com/sparior/api/instagram-social) | Public Instagram profiles, posts, and social data | `apiKey` | ✅ | Check plans |
+| [TikTok Social](https://rapidapi.com/sparior/api/tiktok-social) | TikTok profiles, videos, comments, hashtags, and search | `apiKey` | ✅ | Check plans |
+| [Twitter Social](https://rapidapi.com/sparior/api/twitter-social) | Twitter/X profiles, posts, replies, trends, and search | `apiKey` | ✅ | Check plans |
+| [YouTube Data](https://rapidapi.com/sparior/api/youtube590) | YouTube video and channel data | `apiKey` | ✅ | Check plans |
+
+---
+
+## 🛒 E-Commerce and Product Data
+
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [Real-Time Amazon Data](https://rapidapi.com/sparior/api/real-time-amazon-data5) | Amazon product data, search, pricing, and product research | `apiKey` | ✅ | Check plans |
+| [Walmart Data](https://rapidapi.com/sparior/api/walmart-data1) | Walmart product search and marketplace data | `apiKey` | ✅ | Check plans |
+| [Real-Time eBay Data](https://rapidapi.com/sparior/api/real-time-ebay-data3) | eBay product listings, prices, and marketplace research | `apiKey` | ✅ | Check plans |
+
+---
+
+## ✈️ Travel and Booking
+
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [Booking.com API](https://rapidapi.com/sparior/api/booking-com26) | Hotel search, accommodation details, and travel data | `apiKey` | ✅ | Check plans |
+
+---
+
+## 🏡 Real Estate and Automotive
+
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [Real Estate API](https://rapidapi.com/sparior/api/real-estate12) | Real estate listings and property research | `apiKey` | ✅ | Check plans |
+| [AutoHub](https://rapidapi.com/sparior/api/autohub1) | Vehicle specifications, VIN decoding, valuation, recalls, and listings | `apiKey` | ✅ | Check plans |
+
+---
+
+## 🕸️ Data Extraction and Web Scraping
+
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [ScrapeFlow](https://rapidapi.com/sparior/api/scrapeflow) | Web scraping with HTML, text, Markdown, JavaScript rendering, and CSS extraction | `apiKey` | ✅ | Check plans |
+
+---
+
 ## 🌦️ Weather
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [OpenWeatherMap](https://openweathermap.org/api) | Weather forecasts & current conditions | `apiKey` | ✅ | Free |
@@ -106,6 +166,18 @@ API | Description | Auth | HTTPS | Free
 ---
 
 ## 🧰 Developer Tools
+
+API | Description | Auth | HTTPS | Free
+|:---|:---|:---|:---|:---|
+| [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, security, valuation, and brand intelligence | `apiKey` | ✅ | Free |
+| [RapidAPI](https://rapidapi.com/) | API marketplace & hub | `apiKey` | ✅ | Free |
+| [Postman Public APIs](https://www.postman.com/explore) | Shared API collections for developers | None | ✅ | Free |
+| [ReqRes](https://reqres.in/) | Mock API for testing frontend apps | None | ✅ | Free |
+
+---
+
+## 🧰 Developer Tools
+
 API | Description | Auth | HTTPS | Free
 |:---|:---|:---|:---|:---|
 | [DomScan](https://domscan.net/docs) | Domain, DNS, WHOIS/RDAP, TLS, email, security, valuation, and brand intelligence | `apiKey` | ✅ | Free |
