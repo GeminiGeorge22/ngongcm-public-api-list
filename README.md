@@ -43,13 +43,13 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 * [Finance](#-finance)
 * [Sports Betting and Odds](#-sports-betting-and-odds)
 * [AI and Machine Learning](#-ai-and-machine-learning)
-* [News and Media](#-news-and-media)
+* [News and Media](#%EF%B8%8F-news-and-media)
 * [Social Media](#-social-media)
 * [E-Commerce and Product Data](#-e-commerce-and-product-data)
-* [Travel and Booking](#-travel-and-booking)
+* [Travel and Booking](#%EF%B8%8F-travel-and-booking)
 * [Real Estate and Automotive](#-real-estate-and-automotive)
-* [Data Extraction and Web Scraping](#-data-extraction-and-web-scraping)
-* [Weather](#-weather)
+* [Data Extraction and Web Scraping](#%EF%B8%8F-data-extraction-and-web-scraping)
+* [Weather](#%EF%B8%8F-weather)
 * [Developer Tools](#-developer-tools)
 
 ---
